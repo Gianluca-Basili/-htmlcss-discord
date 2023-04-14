@@ -69,36 +69,72 @@ strong{
     text-align: end;
    
 }
-    
-    
 /*fine header*/
+    
+    
 
-/*inizio main*/
 /*inizio main-1*/
 .container-main-1{
-    background-color: rgba(0,0,139,255);
-    width: 100%;
-    height: 400px;
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+   
 }
   
     
 
 .row-main-1{
     display: flex;
-    justify-content: center;
-}
-   
     
-.col-main-1{
-    background-color: rgba(238,130,238,255);
-    height: 350px;
-    width: 650px;
-    margin: 20px;
-    border-style: dashed;
 }
-    
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgba(255,255,255,255);
+    margin-bottom: 50px;
+    margin-top: 90px;
    
+}
+
+p{
+    color: rgba(251,252,254,255);
+    margin: 0px 645px 0px 570px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.button-mac{
+    border-radius:50px;
+    padding: 20px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 250px;
+    margin-left: 35%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    background-color:rgba(255,255,255,255);
+}
+
+.button-browser{
+    border-radius:50px;
+    padding: 20px;
+    border: none;
+    margin-left: 35px;
+    color: rgba(243,243,243,255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    background-color:rgba(35,39,42,255);
+}
 /*fine main-1*/
+    
+    
+   
 /*inizio main-2*/
 .container-main-2{
     width: 100%;
@@ -321,6 +357,13 @@ strong{
 }
 
 /*fine main-7*/
+   
+    
+
+    
+    
+    
+    
     
     
    
