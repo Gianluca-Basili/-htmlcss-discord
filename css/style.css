@@ -100,7 +100,7 @@ h2{
    
 }
 
-p{
+.paragrafo-main-1{
     color: rgba(251,252,254,255);
     margin: 0px 645px 0px 570px;
     text-align: center;
@@ -182,6 +182,7 @@ p{
  
 .container-main-3{
     background-image: url(../img/wave.svg);
+    background-size: contain;
     width: 100%;
     height: 400px;
 }
@@ -192,7 +193,7 @@ p{
 .wave{
     width: 100%;
     transform: scaleY(-1);
-   
+    
     
 }
 
@@ -278,8 +279,9 @@ p{
 /*inzio main-5*/
 .container-main-5{
     width: 100%;
-    height: 710px;
-    background-color: lightgray;
+    
+    background-color: rgba(246,246,246,255);
+   
 }
 
 .row-main-5{
@@ -288,12 +290,66 @@ p{
 }
 
 .col-main-5{
-    background-color: rgba(34,139,34,255);
-    height: 650px;
     width:50%;
     margin-top: 30px;
-    border-style: dashed;
 }
+    
+    
+    
+
+   
+
+.titolo-main-5{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.paragrafo-main-5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: black;
+    margin-top: 20px;
+}
+
+.stars{
+    margin-left: 225px;
+    height: 40px;
+}
+
+.p-main-5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    color: black;
+    margin-left: 245px;
+}
+
+.button-main-5{
+    border-radius:50px;
+    padding: 20px;
+    border: none;
+    margin-top: 45px;
+    margin-bottom: 250px;
+    margin-left: 36%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    background-color:rgba(142,161,225,255);
+    color: white;
+}
+
+
+
+    
+    
+   
+   
+    
+
+
 /*fine main-5*/
 /*inzio main-6*/
 .container-main-6{
