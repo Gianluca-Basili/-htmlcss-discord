@@ -102,7 +102,7 @@ h2{
 
 .paragrafo-main-1{
     color: rgba(251,252,254,255);
-    margin: 0px 645px 0px 570px;
+    margin: 0px 640px 0px 570px;
     text-align: center;
     line-height: 1.5;
     font-weight: 500;
@@ -293,12 +293,6 @@ h2{
     width:50%;
     margin-top: 30px;
 }
-    
-    
-    
-
-   
-
 .titolo-main-5{
     font-family: 'Montserrat', sans-serif;
     color: black;
@@ -340,22 +334,12 @@ h2{
     background-color:rgba(142,161,225,255);
     color: white;
 }
-
-
-
-    
-    
-   
-   
-    
-
-
 /*fine main-5*/
 /*inzio main-6*/
 .container-main-6{
     width: 100%;
-    height: 400px;
     background-color: rgba(35,39,42,255);
+   
 }
 
 .row-main-6{
@@ -366,104 +350,152 @@ h2{
 }
 
 .col-main-6{
-    background-color:rgba(240,128,128,255) ;
-    height: 370px;
-    width: 10%;
-    border-style: dashed;
-    margin-top: 20px;
-}
-    
-
-.col2-main-6{
-    background-color:rgba(32,178,170,255) ;
-    height: 370px;
-    width: 11%;
-    border-color: white;
-    border-style: dashed;
-    margin-top: 20px;
+    width: 20%;
+    margin-top: 60px;
+    margin-left: 80px;
     
 }
    
-.col3-main-6{
-    background-color:rgba(32,178,170,255) ;
-    height: 370px;
-    width: 10%;
-    border-color: white;
-    border-style: dashed;
-    margin-top: 20px;
-}
-    
+  
 
-    
-.col4-main-6{
-    background-color:rgba(32,178,170,255) ;
-    height: 370px;
-    width: 10%;
-    border-color: white;
-    border-style: dashed;
-    margin-top: 20px;
+.titolo-main-6{
+    font-family: 'Montserrat', sans-serif;
+    color:rgba(113,136,217,255);
+    font-size: 35px;
+    text-align: left;
 }
+
+.ita{
+    margin-top: 30px;
+    width: 25px;
+}
+.instagram{
+    margin-left: 20px;
+   margin-right: 20px;
+}
+
+.youtube{
+    margin-left: 20px;
+}
+
+
+
+.col2-main-6{
+    width: 12%;
+    border-color: white;
+    margin-top: 65px;
+}
+.first{
+    color:rgba(113,136,217,255);
+}
+h4{
+    line-height: 2;
+}
+   
+.col3-main-6{
+    width: 12%;
+    border-color: white;
+    margin-top: 65px;
+}
+
+.col4-main-6{
+    width: 12%;
+    border-color: white;
+    margin-top: 65px;
+    
+    
+}
+   
+   
 
 
 .col5-main-6{
-    background-color:rgba(32,178,170,255) ;
-    height: 370px;
-    width: 9%;
+    width: 12%;
     border-color: white;
-    border-style: dashed;
-    margin-top: 20px;
 }
-
+   
+   
+ hr{
+    margin-left: 330px;
+    margin-right: 101px;
+    margin-top: 50px;
+    color:rgba(113,136,217,255);
+ }   
+    
 /*fine main-6*/
+
 
 /*inizio main-7*/
 .container-main-7{
     background-color: rgba(35,39,42,255);
-    width: 100%;
-    height: 100px;
+   
     
 }
 .row-main-7{
-   
     justify-content: space-between;
     display: flex;
-    height: 100px;
-    width: 760px;
-    margin-left: 375px;
-    background-color: rgba(127,255,212,255);
+    width: 92em;
+    margin-left: 330px;
 }
-
-.col-main-7{
-    background-color: aquamarine;
-    width: 50%;
-    height: 60px;
-    margin-top: 40px;
-    
-}
-
 .col2-main-7{
-    background-color: rgba(255,182,193,255);
-    width: 54px;
-    height: 30px;
-    border-style: dashed;
-    text-align: center;
-    
-   
+    margin-top: 30px;
 }
-  
-.col3-main-7{
-    
-    background-color: rgba(255,182,193,255);
-    height: 30px;
-    border-style: dashed;
-    text-align: center;
    
     
+.col3-main-7{
+    margin-top: 30px;
 }
 
+
+
+.button-accedi{
+    
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color:rgba(142,161,225,255);
+        
+    
+}
 /*fine main-7*/
+    
+    
+    
+
+   
+
+   
+
+    
+
+
+    
+    
+    
+    
    
     
+    
+
+    
+    
+   
+   
+
+   
+    
+
+
+
+    
+    
+   
+   
+    
+
+
 
     
     
